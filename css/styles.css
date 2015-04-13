@@ -1,0 +1,15 @@
+img {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    cursor:pointer;
+    margin: 5px;
+}
+
+img:hover {
+    border: 2px solid yellow;
+}
+
+#onClick {
+    display: none;
+}
